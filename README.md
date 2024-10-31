@@ -1,5 +1,7 @@
-A Recursive Formula for Estimating Prime Number Density 
+A Recursive Formula for Estimating Prime Number Density
+
 VARUN MENON 
+
 Abstract: This paper introduces a method for estimating the proportion of prime numbers up to a given 
 upper bound. It is based on a recursive approach inspired by the Sieve of Eratosthenes. This method 
 works by taking the range of numbers given and iteratively removing the percentages of composite 
